@@ -5,10 +5,13 @@
    <link rel='stylesheet' href='/stylesheets/style.css' />
   </head>
   <body>
-   <h2>Quiz: el juego de las preguntas</h2>
-
+   <!--<h2>Quiz: el juego de las preguntas</h2>-->
+   <br>
    <form method="get" action="/quizes/answer">
-    Pregunta: <%= pregunta %> <p>
-     <input type="text" name="respuesta" value="Responda aqu&iacute; />"
+    <h2>Pregunta: <%= pregunta %> </h2>
+     <input type="text" name="respuesta" value="Responda aqu&iacute;" />
      <input type="submit" value="Enviar">
+     <br>
+   </form>
   </body>
+ </html>
