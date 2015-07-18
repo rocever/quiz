@@ -14,6 +14,7 @@
       <nav class="main" id="n1" role="navigation">
         <span><a href="/">Inicio</a></span>
         <span><a href="/quizes/question">Preguntas</a></span>
+         <span><a href="/author">Creditos</a></span>
       </nav>
 
       <section class="main" id="s1">
@@ -22,7 +23,7 @@
 
       <footer class="main" id="f1">
         <span><a href="http://es.wikipedia.org/wiki/Quiz">¿Que es un Quiz</a></span>
-	 <span><a href="http://es.wikipedia.org/wiki/Quiz">Ir al proyecto en Github</a></span>
+	 <span><a href="https://github.com/rocever/quiz">Ir al proyecto en Github</a></span>
       </footer>
     </div>  
   </body>
