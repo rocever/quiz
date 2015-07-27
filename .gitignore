@@ -1,0 +1,10 @@
+# Archivos que no se subiran al repositorio
+
+*.*~
+*.md~
+*.json~
+*.js~
+*~
+*.ejs~
+*.css~
+
