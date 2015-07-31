@@ -7,4 +7,5 @@
 *~
 *.ejs~
 *.css~
+quiz.sqlite
 
