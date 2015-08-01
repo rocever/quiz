@@ -13,9 +13,6 @@ router.get('/author', function(req, res) {
   res.render('author', { title: 'Creditos' });
 });
 
-/* router.get('/quizes/question', quizController.question);
-router.get('/quizes/answer', quizController.answer); */
-
 // Definicion de rutas de /quizes
 router.get('/quizes', quizController.index);
 router.get('/quizes/:quizId(\\d+)',quizController.show);
