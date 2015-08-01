@@ -29,7 +29,7 @@
 
       <footer class="main" id="f1">
         <span><a href="http://es.wikipedia.org/wiki/Quiz">¿Que es un Quiz</a></span>
-	 <span><a href="https://github.com/rocever/quiz">Ir al proyecto en Github</a></span>
+	<span><a href="https://github.com/rocever/quiz">Ir al proyecto en Github</a></span>
       </footer>
     </div>  
   </body>
